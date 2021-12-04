@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HUIHUI0706
 - 👀 I’m interested in java
-- 🌱 I’m currently learning doctor
-- 💞️ I’m looking to collaborate on school
+- 🌱 I’m currently studying to be a great Doctor !
+- 💞️ I’m looking to collaborate in school
 - 📫 How to reach me ...
 
 <!---
